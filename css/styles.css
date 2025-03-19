@@ -172,12 +172,12 @@ div#topnav ul li a {
 	color:#00F;
 }
 
-div#logo {
+#logo {
 	text-align:center;
 }
 
-div#banner {
-	width: 1200px;
+#banner {
+	width: 100%;
 }
 
 #section1 {
